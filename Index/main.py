@@ -1,6 +1,6 @@
-import cv2
+import cv2 # Harus install CV2
 import numpy as np
-import mediapipe as mp
+import mediapipe as mp # Harus install mediapipe
 
 mp_drawing = mp.solutions.drawing_utils
 mp_hands = mp.solutions.hands
